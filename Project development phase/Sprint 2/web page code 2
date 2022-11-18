@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+ <body>
+ <h1 style="text-align: center; color: black; background-color: green; border-radius: 100px; borderradius: 70px;">EXPLORATION</h1>
+
+
+ <li><a href="index.html">HOME PAGE</a></li><br>
+
+ <p>
+ <style>
+ fieldset{
+ background-image: url(https://blog.ucsusa.org/wpcontent/uploads/2016/07/22559646902_07fd41ab0c_z.jpg);
+ background: cover;
+
+ }
+ </style>
+ <fieldset style="background-color: grey; border-radius: 50px;">
+ <form style="text-align: center;">
+ <p><strong><i>
+ </i></strong></p>
+ <br><br><br><embed
+src="https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FNew%2Bexplo
+ration&subView=model000001846d325aeb_00000000" width="600" height="500"><br><br><br><br>
+ <a href
+="https://colab.research.google.com/drive/1ZHxYuFTYZErD3xOmbV0f_8oQmEyy85Gh">
+ <button style="background-color: olivedrab; border-radius: 30px; " type="google
+colab">google colab</button><p style=" color: white">CLICK HERE TO VIEW CODE</p></a></p>
+
+ <a
+href="https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FNew%2Bexpl
+oration&subView=model000001846d325aeb_00000000">
+ <button style="background-color: olivedrab; border-radius: 30px;" type="ibm cognos
+analytics with watson"> IBM cognos analytics with watson</button><p style=" color: white">CLICK HERE
+TO VIEW EXPLORATION IN COGNOS</p></a>
+
+
+ </form>
+ </fieldset>
+ </p>
+
+ </body>
+</html>
